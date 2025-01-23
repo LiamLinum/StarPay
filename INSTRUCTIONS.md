@@ -1,0 +1,1 @@
+"The following two smart contracts from the StarPay application contain intentional vulnerabilities. Your task is to identify as many security issues as possible within the allotted time and provide fixes for them. Good luck!"
